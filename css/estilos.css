@@ -7822,3 +7822,9 @@ body {
 
 .bordeRendondo {
   border-radius: 16px; }
+
+.imagen_fondo2 {
+  background-image: url(../images/shopping-home-imagen.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  height: 400px; }
